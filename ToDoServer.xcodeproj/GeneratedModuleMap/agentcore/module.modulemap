@@ -1,0 +1,4 @@
+module agentcore {
+    umbrella "/Users/mathieu/dev/ToDoBackend/ToDoServer/.build/checkouts/omr-agentcore/src/agentcore/include"
+    export *
+}

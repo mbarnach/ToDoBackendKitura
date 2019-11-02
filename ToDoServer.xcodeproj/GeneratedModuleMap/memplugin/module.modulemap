@@ -1,0 +1,4 @@
+module memplugin {
+    umbrella "/Users/mathieu/dev/ToDoBackend/ToDoServer/.build/checkouts/omr-agentcore/src/memplugin/include"
+    export *
+}
